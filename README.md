@@ -6,4 +6,4 @@ Design files of S-band patch antenna to be used on board the AcubeSAT are includ
 
 A plotter has also been written to plot farfield (radiation pattern) data taken from CST as a .png with annotations. Can be used to compare measured data with simulations and visualize results in a convenient fashion:
 
-![farfield](plotter/farfield.png "S11")
+![farfield](plotter/farfield.png "Farfield")
