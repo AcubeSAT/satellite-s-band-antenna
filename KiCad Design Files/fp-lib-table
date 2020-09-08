@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Patch)(type KiCad)(uri "$(KIPRJMOD)/Patch.pretty")(options "")(descr ""))
+)
