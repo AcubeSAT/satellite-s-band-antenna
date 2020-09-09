@@ -13,8 +13,10 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text Label 4800 1300 0    50   ~ 0
-RF_COPPER
+Wire Wire Line
+	4600 1300 4800 1300
+Wire Wire Line
+	4600 1500 4600 1300
 $Comp
 L Connector:Conn_01x01_Male J1
 U 1 1 5F57DB6D
@@ -26,8 +28,6 @@ F 3 "~" H 4600 1700 50  0001 C CNN
 	1    4600 1700
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	4600 1500 4600 1300
-Wire Wire Line
-	4600 1300 4800 1300
+Text Label 4800 1300 0    50   ~ 0
+RF_COPPER
 $EndSCHEMATC
