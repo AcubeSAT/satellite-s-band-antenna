@@ -1,0 +1,8 @@
+Q-Factor Information File Version 20010206
+H-Field 
+Frequency/Hz -1.000000000000e+00
+Boundary Xmin1 Xmax1 Ymin1 Ymax1 Zmin1 Zmax1
+Method new
+Save3D FALSE
+Layer **Cond. Enclosure** 5.800000000000e+07 1.000000000000e+00
+Layer PEC 5.800000000000e+07 1.000000000000e+00

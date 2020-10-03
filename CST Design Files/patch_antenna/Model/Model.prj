@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+afrokita
+[Mesh Cells]
+487,872
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:spacecraft_patch_ant2.cst?1b01935de7fe8ae1932e5cf5e17d67ab?159533:numberofparameters=16:port=1>mode=1>zre=0>zim=0:::lg?lp?lt?s?w1?a?d?e?g?h?ly?outer_rad?rad?sg?xfeed?yfeed
+[Comment]

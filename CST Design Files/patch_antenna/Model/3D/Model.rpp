@@ -1,0 +1,89 @@
+7
+0
+0
+12
+E-field,3D,Tot. Rad. Power (Solid Angle)
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+E-field,3D,Tot. Rad. Power (Solid Angle)
+E-field,Phi=0.0
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+E-field,Phi=0.0
+E-field,Phi=0.0,Angular Width x dB
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+E-field,Phi=0.0,Angular Width x dB
+Realized Gain,Phi=0.0
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+Realized Gain,Phi=0.0
+Total radiated power (TRP, upper hemisphere) over frequency
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+Total radiated power (TRP, upper hemisphere) over frequency
+Directivity,Phi=0.0,Max. Value (Subrange)
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+Directivity,Phi=0.0,Max. Value (Subrange)
+Directivity,Theta=0,Phi=0
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+Directivity,Theta=0,Phi=0
+E-field,Phi=0.0_1
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+E-field,Phi=0.0_1
+Directivity,Theta=0,Phi=0.0
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+Directivity,Theta=0,Phi=0.0
+Directivity,Theta=0,Phi=0.0_1
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+Directivity,Theta=0,Phi=0.0_1
+Directivity,Theta=0,Phi=0.0_2
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+Directivity,Theta=0,Phi=0.0_2
+Realized Gain,Phi=0.0,Max. Value (Subrange)
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+Realized Gain,Phi=0.0,Max. Value (Subrange)
+0

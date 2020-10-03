@@ -1,0 +1,1146 @@
+20100312
+[start]hidden_objects
+[start]curves
+[start]curve1:patch
+[end]curve1:patch
+[start]curve1:uslot
+[end]curve1:uslot
+[end]curves
+[end]hidden_objects
+[start]history_fast_undo
+[start]undo_item
+[start]block_index
+3
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:gnd"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+4
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+8
+[end]block_index
+[start]command
+'@ activate local coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "local"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+9
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+12
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+15
+[end]block_index
+[start]command
+'@ activate local coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "local"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+16
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+19
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:dielectric coaxial"
+Solid.Delete "component1:dielectric coaxial"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+20
+[end]block_index
+[start]command
+'@ activate local coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "local"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+21
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+25
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+27
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:dielectric coaxial"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+28
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+30
+[end]block_index
+[start]command
+'@ activate local coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "local"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+35
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+36
+[end]block_index
+[start]command
+'@ define port: 1
+ (undo)
+[end]command
+[start]content
+Port.Delete "1"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+46
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+50
+[end]block_index
+[start]command
+'@ activate local coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "local"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+51
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:solid1_1"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+52
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:solid1_1_1"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+54
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:solid1_1_1"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+56
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:solid1_1_1"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+71
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+102
+[end]block_index
+[start]command
+'@ activate local coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "local"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+105
+[end]block_index
+[start]command
+'@ activate local coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "local"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+180
+[end]block_index
+[start]command
+'@ transform: translate component1:patch
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:patch" 
+     .Vector "(-1)*0", "(-1)*0", "(-1)*h" 
+     .UsePickedPoints "False" 
+     .InvertPickedPoints "False" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Translate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+181
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+185
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+186
+[end]block_index
+[start]command
+'@ activate global coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "global"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+187
+[end]block_index
+[start]command
+'@ activate local coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "local"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+190
+[end]block_index
+[start]command
+'@ activate local coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "local"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+192
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+195
+[end]block_index
+[start]command
+'@ activate local coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "local"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+196
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+198
+[end]block_index
+[start]command
+'@ activate local coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "local"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+199
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+200
+[end]block_index
+[start]command
+'@ activate global coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "global"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+201
+[end]block_index
+[start]command
+'@ activate local coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "local"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+203
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+204
+[end]block_index
+[start]command
+'@ activate global coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "global"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+205
+[end]block_index
+[start]command
+'@ activate local coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "local"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+207
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+208
+[end]block_index
+[start]command
+'@ activate global coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "global"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+210
+[end]block_index
+[start]command
+'@ activate local coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "local"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+211
+[end]block_index
+[start]command
+'@ transform: rotate component1:patch
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:patch" 
+     .Origin "Free" 
+     .Center "0", "0", "0" 
+     .Angle "-1*0", "-1*0", "-1*90" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Rotate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+213
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+219
+[end]block_index
+[start]command
+'@ transform: translate component2
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component2" 
+     .Vector "(-1)*0", "(-1)*0", "(-1)*-sg" 
+     .UsePickedPoints "False" 
+     .InvertPickedPoints "False" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Translate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+224
+[end]block_index
+[start]command
+'@ activate local coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "local"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+226
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+228
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+232
+[end]block_index
+[start]command
+'@ activate local coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "local"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+234
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+244
+[end]block_index
+[start]command
+'@ transform: translate component1:patch
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:patch" 
+     .Vector "(-1)*0", "(-1)*0", "(-1)*-h" 
+     .UsePickedPoints "False" 
+     .InvertPickedPoints "False" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Translate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+277
+[end]block_index
+[start]command
+'@ transform: translate component1:dielectric coaxial
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:dielectric coaxial" 
+     .Vector "(-1)*0", "(-1)*0", "(-1)*-h" 
+     .UsePickedPoints "False" 
+     .InvertPickedPoints "False" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "True" 
+     .Transform "Shape", "Translate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+278
+[end]block_index
+[start]command
+'@ transform: translate component1:feed
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:feed" 
+     .Vector "(-1)*0", "(-1)*0", "(-1)*-h" 
+     .UsePickedPoints "False" 
+     .InvertPickedPoints "False" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "True" 
+     .Transform "Shape", "Translate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+279
+[end]block_index
+[start]command
+'@ transform: translate component1:outer_cond
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:outer_cond" 
+     .Vector "(-1)*0", "(-1)*0", "(-1)*-h" 
+     .UsePickedPoints "False" 
+     .InvertPickedPoints "False" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Translate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+310
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+311
+[end]block_index
+[start]command
+'@ define port: 1
+ (undo)
+[end]command
+[start]content
+Port.Delete "1"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+330
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+331
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+389
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+393
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+396
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+398
+[end]block_index
+[start]command
+'@ activate local coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "local"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+400
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[end]history_fast_undo
+[start]PortAndLumpedLabelState
+[start]ShowLabels
+1
+[end]ShowLabels
+[start]ShowLabelsShort
+1
+[end]ShowLabelsShort
+[start]ZoomDependPortLabels
+1
+[end]ZoomDependPortLabels
+[end]PortAndLumpedLabelState
+[start]adaption_criteria_store
+[end]adaption_criteria_store
