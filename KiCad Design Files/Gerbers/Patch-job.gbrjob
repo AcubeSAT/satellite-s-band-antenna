@@ -5,9 +5,9 @@
     {
       "Vendor":      "KiCad",
       "Application": "Pcbnew",
-      "Version":     "5.1.6-c6e7f7d~87~ubuntu20.04.1"
+      "Version":     "(5.1.4)-1"
     },
-    "CreationDate":  "2020-09-09T15:06:34+00:00"
+    "CreationDate":  "2020-10-17T09:34:39+00:00"
   },
   "GeneralSpecs":
   {
@@ -15,7 +15,7 @@
     {
       "Name": "Patch",
       "GUID": "50617463-682e-46b6-9963-61645f706362",
-      "Revision": "rev?"
+      "Revision": "v1.0"
     },
     "Size":
     {
@@ -59,16 +59,6 @@
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "Patch-F_SilkS.gbr",
-      "FileFunction":  "Legend,Top",
-      "FilePolarity":  "Positive"
-    },
-    {
-      "Path":  "Patch-B_SilkS.gbr",
-      "FileFunction":  "Legend,Bot",
-      "FilePolarity":  "Positive"
-    },
-    {
       "Path":  "Patch-F_Mask.gbr",
       "FileFunction":  "SolderMask,Top",
       "FilePolarity":  "Negative"
@@ -86,10 +76,6 @@
   ],
   "MaterialStackup":
   [
-    {
-      "Type":  "Legend",
-      "Notes":  "Layer F.SilkS"
-    },
     {
       "Type":  "SolderPaste",
       "Notes":  "Layer F.Paste"
@@ -118,10 +104,6 @@
     {
       "Type":  "SolderPaste",
       "Notes":  "Layer B.Paste"
-    },
-    {
-      "Type":  "Legend",
-      "Notes":  "Layer B.SilkS"
     }
   ]
 }
